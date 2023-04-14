@@ -1,0 +1,14 @@
+.formu{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: auto;
+    align-items: center;
+}
+
+.h1{
+    text-align: center;
+}
+
+
